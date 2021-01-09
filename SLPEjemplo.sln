@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLPEjemplo", "SLPEjemplo\SLPEjemplo.csproj", "{8F449BDA-4142-499D-9692-119F83CE398F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLPEjemploR", "SLPEjemploR\SLPEjemploR.csproj", "{EF0CBE8A-9893-4AD9-96B6-C8AF6B9C87BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F449BDA-4142-499D-9692-119F83CE398F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F449BDA-4142-499D-9692-119F83CE398F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F449BDA-4142-499D-9692-119F83CE398F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F449BDA-4142-499D-9692-119F83CE398F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF0CBE8A-9893-4AD9-96B6-C8AF6B9C87BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0CBE8A-9893-4AD9-96B6-C8AF6B9C87BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0CBE8A-9893-4AD9-96B6-C8AF6B9C87BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0CBE8A-9893-4AD9-96B6-C8AF6B9C87BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E43E9F8-506E-4342-833D-3AACAB08A6BC}
+	EndGlobalSection
+EndGlobal
